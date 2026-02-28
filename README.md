@@ -22,11 +22,11 @@ Gosto de resolver problemas desafiadores, explorar novas áreas da computação 
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=davil2020&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=davil2020&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davil2020&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davil2020&layout=compact&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=davil2020&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=davil2020&theme=dracula)
 
 ---
 

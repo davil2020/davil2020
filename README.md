@@ -1,34 +1,33 @@
-👋 Olá! Eu sou Davi Teixeira Lessa
+# 👋 Olá! Eu sou Davi Teixeira Lessa
 
-🎓 Estudante de Engenharia da Computação no ITA
-📍 Natural do Rio de Janeiro – Brasil
-🧠 Apaixonado por desafios, algoritmos e resolução de problemas
+🎓 Estudante de Engenharia da Computação no ITA  
+🧠 Apaixonado por programação competitiva, algoritmos e desafios  
+📍 Rio de Janeiro – Brasil  
 
-🚀 Sobre mim
+---
 
-Sou estudante de Engenharia da Computação no ITA e tenho grande interesse em programação competitiva, algoritmos e desafios de alta performance.
+## 🚀 Sobre mim
 
-Gosto de problemas que exigem pensamento lógico profundo, otimização e estruturas de dados avançadas.
+Gosto de resolver problemas desafiadores, explorar novas áreas da computação e transformar ideias em soluções eficientes. Tenho interesse especial por algoritmos, otimização e desafios que exigem raciocínio lógico profundo.
 
-Estou sempre buscando evoluir minha capacidade de resolver problemas difíceis de forma elegante e eficiente.
+---
 
+## 💻 Linguagens
 
-💻 Linguagens de Programação
+- C++  
+- Python  
+- JS   
 
-Principais linguagens que utilizo:
+---
 
-C++ (principal para programação competitiva)
+## 📊 Estatísticas
 
-Python
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=davil2020&show_icons=true&theme=radical)
 
-C
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davil2020&layout=compact&theme=radical)
 
-📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=davil2020&theme=radical)
 
+---
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davil2020&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davil2020&layout=compact&theme=tokyonight)
-
-
-
+⭐ Sempre evoluindo e buscando novos desafios.
